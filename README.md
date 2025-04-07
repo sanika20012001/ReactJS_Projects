@@ -1,3 +1,33 @@
+📝React Stack Todo App – Task Manager
+
+✅ To-do complete
+📋 Task list
+🗂️ Organized tasks
+🧾 Checklist
+
+A responsive and sleek Todo App-Task manager built using ReactJS.
+
+## 🚀 Tech Stack
+- React.js
+- Tailwind CSS
+- HTML5
+- Hooks (useState, useEffect)
+
+## 🔥 Features
+- utilized functional components, React Hooks, and event handlers.
+• smooth UI updates using Redux Toolkit Integration.
+• Tailwind CSS for styling components, improving responsiveness and UI consistency.
+
+## 📸 Screenshots
+(Add 1–2 screenshots here or use a GIF showing app in action)
+
+## 🛠️ Setup Instructions
+
+git clone https://github.com/sanika20012001/ReactJS_Projects/edit/TodoApp-Project.git
+cd TodoApp-Project
+npm install
+npm start
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
